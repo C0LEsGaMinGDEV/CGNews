@@ -1,0 +1,2 @@
+# CGNews
+NewsRepository
